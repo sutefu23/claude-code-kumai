@@ -756,4 +756,4 @@ section {
 
 # 本もよろしくお願いします！<br><br>「Claude CodeによるAI駆動開発入門」
 
-[![./image/book.png](./image/book.png)](https://www.amazon.co.jp/dp/4297152754/)
+<a href="https://www.amazon.co.jp/dp/4297152754/" target="_blank"><img src="./image/book.png" alt="Claude CodeによるAI駆動開発入門" /></a>
