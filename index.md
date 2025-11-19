@@ -29,7 +29,7 @@ header: "**著者と深掘るClaude Code×AI駆動開発の最前線**"
     株式会社en-gine代表。エンジニア歴10年。<br>
     東京と福岡を拠点に、生成AI・クラウドアーキテクチャ・LLMエージェント技術を活用した業務システム・SaaSの設計開発に従事。<br>
     現在は、AIと人間の協働による「AI駆動開発（AI-Driven Development）」の普及を目指し、企業支援・教育活動も行っている。<br>
-   「<a href="https://www.amazon.co.jp/dp/4297152754/"><strong class="orange">Claude CodeによるAI駆動開発入門</strong></a>」が技術評論社より12月5日刊行予定。
+   「<a target="_blank" href="https://www.amazon.co.jp/dp/4297152754/"><strong class="orange">Claude CodeによるAI駆動開発入門</strong></a>」が技術評論社より12月5日刊行予定。
   </p>
   </div>
 </div>
@@ -41,7 +41,7 @@ header: "**著者と深掘るClaude Code×AI駆動開発の最前線**"
 「ソフトウェア開発・言語」ジャンル
   </div>
   <div>
-    <a href="https://www.amazon.co.jp/dp/4297152754/">
+    <a target="_blank" href="https://www.amazon.co.jp/dp/4297152754/">
     <img src="./image/amazon.png" class="mx-auto" alt="Claude Codeのシェア" />
     </a>
   </div>
@@ -74,7 +74,7 @@ header: "**著者と深掘るClaude Code×AI駆動開発の最前線**"
 ---
 
 おまけで初心者の方向けにスライドも用意しました。
-<a href="./primary.html">はじめての Claude Code</a>
+<a target="_blank" href="./primary.html">はじめての Claude Code</a>
 
 <br><i>もう少し基礎的・網羅的に知識が欲しい方は・・</i>
 
@@ -94,7 +94,7 @@ header: "**著者と深掘るClaude Code×AI駆動開発の最前線**"
 5章セキュリティと応用的な活用
 </div>
 <div>
-<a href="https://www.amazon.co.jp/dp/4297152754/">
+<a target="_blank" href="https://www.amazon.co.jp/dp/4297152754/">
   <img src="./image/book.png" alt="Claude Codeの本" style="height:50vh"/>
 </a>
 </div>
@@ -731,17 +731,17 @@ Claude Sonnet4.5でも100万トークン対応可能だが、APIのみなのと�
 
 # 最後に
 
-- 気軽に連絡してください。 **@t_hirakawa**
-導入支援や講演のご依頼も歓迎します。
+- 気軽に連絡してください。 **<a target="_blank" href="https://x.com/t_hirakawa">@t_hirakawa</a>**
+導入支援や講演のご依頼も歓迎します。⇨<a href="mailto:info@en-gine.co">メール</a>
 
-- お仕事も募集中
+- お仕事の相談も募集中
 
 - AIxシステム開発の引き合いも増加中。
 お仲間募集中なのでカジュアル面談しましょう。
 PM、エンジニア、営業（業務委託や社員登用）
 
 
-### フリーランスの方は**ランサーズテックエージェント**さんで仕事を探そう
+### フリーランスの方は<a target="_blank" href="https://tech-agent.lancers.jp/">ランサーズテックエージェント</a>さんで仕事を探そう
 
 ---
 
